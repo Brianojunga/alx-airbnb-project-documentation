@@ -1,1 +1,1 @@
-<img src='data-flow-diagram/data-flow.png'>
+<img src='data-flow.png'>
